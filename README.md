@@ -1,4 +1,5 @@
 **GLOBAL COVID 19 ANALYSIS AND VISUALISATION**
+
 This Power BI dashboard provides a comprehensive and interactive view of the global impact of COVID-19. It includes key metrics like total cases, deaths, recoveries, active cases, and fatality rates across various countries and continents over time. Users can explore data by country, continent, and custom date ranges to gain insights into the evolution of the pandemic.
 
 **Objective** -
